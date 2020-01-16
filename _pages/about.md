@@ -1,8 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Will"
 ---
+*Will is a machine learning (ML) scientist based in London.*
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I learnt how to use ML at [UCL](https://www.csml.ucl.ac.uk), and studied at
+[Oxford](https://www.chem.ox.ac.uk) before that in my past life as a chemist. Now I
+mostly work with computers and people, and there are far fewer hazardous
+substances to worry about.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I like to think about information (rather than data) and all the ways we
+capture, communicate and interpret it. I love to teach, to learn, to discover
+new perspectives, to help, and to affect the world in a positive way.
