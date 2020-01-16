@@ -1,2 +1,1 @@
-# willflet.github.io
-GitHub Pages
+[Personal website](willflet.github.io), hosted by GitHub Pages.
