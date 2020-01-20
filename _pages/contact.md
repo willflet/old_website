@@ -2,7 +2,12 @@
 permalink: /contact/
 title: "Contact Will"
 ---
-<form accept-charset="UTF-8" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfDALdTp5L701s9-H_JIOcGgQ7kBydv7uaCNtcNRbN7nxWtyQ/formResponse" method="POST" enctype="multipart/form-data">
+
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+onload="if(submitted) {window.location='/contact/thanks/';}"></iframe>
+
+<form accept-charset="UTF-8" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfDALdTp5L701s9-H_JIOcGgQ7kBydv7uaCNtcNRbN7nxWtyQ/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;" enctype="multipart/form-data">
 
     <div class="form-group">
         <label required>Name</label>
@@ -16,7 +21,7 @@ title: "Contact Will"
 
     <div class="form-group">
         <label required>Subject</label>
-        <input type="text" name="entry.1676351200" class="form-control" placeholder="subject" required>
+        <input type="text" name="entry.1676351200" class="form-control" placeholder="message subject" required>
     </div>
 
     <div class="form-group">
