@@ -2,13 +2,9 @@
 permalink: /about/
 title: "About Will"
 ---
-*Will is a machine learning (ML) scientist based in London.*
+>Will is a machine learning scientist based in London.
 
-I learnt how to use ML at [UCL](https://www.csml.ucl.ac.uk), and studied at
-[Oxford](https://www.chem.ox.ac.uk) before that in my past life as a chemist. Now I
-mostly work with computers and people, and there are far fewer hazardous
-substances to worry about.
+*Welcome, reader! Thank you for stopping by. If you need to get in touch with me,
+please use the [contact form](/contact/). I look forward to hearing from you!*
 
-I like to think about information (rather than data) and all the ways we
-capture, communicate and interpret it. I love to teach, to learn, to discover
-new perspectives, to help, and to affect the world in a positive way.
+---
