@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 layout: default
+author_profile: true
 title: "About Will"
 ---
 >Will is a machine learning scientist based in London.
