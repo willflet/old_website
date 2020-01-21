@@ -1,6 +1,6 @@
 ---
 permalink: /contact/thanks/
-layout: default
+layout: single
 author_profile: true
 title: "Thank you"
 ---

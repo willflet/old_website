@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-layout: default
+layout: single
 author_profile: true
 title: "Contact Will"
 ---
