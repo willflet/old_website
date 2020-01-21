@@ -21,7 +21,7 @@ onload="if(submitted) {window.location='/contact/thanks/';}"></iframe>
 
     <div class="form-group">
         <label required>Subject</label>
-        <input type="text" name="entry.1676351200" class="form-control" placeholder="message subject" required>
+        <input type="text" name="entry.1676351200" class="form-control" placeholder="subject" required>
     </div>
 
     <div class="form-group">

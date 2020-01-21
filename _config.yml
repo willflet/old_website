@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Will Fletcher"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/favicon.png"
   bio    : "Scientist, mathematician, programmer, daydreamer. Currently in the world of machine learning."
   links:
     # - label: "Website"
