@@ -1,6 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-$form-background-color: mix(#fff, $border-color, 50%) !default;
