@@ -12,8 +12,19 @@ please use the [contact form](/contact/). I look forward to hearing from you!
 
 ---
 
+
 ### How would you describe yourself?
 
+In most ways I am unremarkable. Let's get that out of the way for starters.
+
+For a general picture of me, though... I'm an ex-academic who works with
+artificial intelligence techniques, primarily machine learning. I can talk to
+computers with relative ease. I'm not bad at design in a general sense, and I
+love helping people succeed and be happy.
+
+Some characteristics I like in myself are **mathematical thinking**,
+**scientific curiosity**, and a **humanizing instinct**. I try to foster these
+in others also.
 
 
 ### What's your story?
