@@ -3,4 +3,4 @@ _drafts
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
-deploy-local.sh
+jekyll-local.sh
