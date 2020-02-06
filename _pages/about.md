@@ -16,7 +16,7 @@ please use the [contact form](/contact/). I look forward to hearing from you!
 
 ### How would you describe yourself?
 
-I'm mostly unremarkable. That's at least a good [prior](/bayes/).
+Well I'm mostly unremarkable. That's at least a good [prior](/bayes/).
 
 To give a quick impression, though, I'm an [ex-academic](/education/) who works
 with artificial intelligence techniques -- primarily machine learning. I can
@@ -31,11 +31,12 @@ I try to encourage and foster these in others also.
 
 ### What's your story?
 
-My childhood home towns are Oxford and Cambridge. As a teenager in Cambridge, my
-life was dominated by music (trumpet) and church; I don't do much of either now,
-but musicianship is still a core part of my identity, and my oldest friendships
-grew out of church life. At school I took A-levels in Music, Chemistry, Maths
-and Further Maths.
+My childhood home towns are Oxford and Cambridge.
+
+As a teenager in Cambridge, my life was dominated by music (trumpet) and church;
+I don't do much of either now, but musicianship is still a core part of my
+identity, and my oldest friendships grew out of church life. At school I took
+A-levels in Music, Chemistry, Maths and Further Maths.
 
 I then studied [Chemistry](https://www.chem.ox.ac.uk) at Oxford, completing an
 MChem in 2014. I specialized at the mathematical end of the subject, with my
