@@ -14,19 +14,34 @@ please use the [contact form](/contact/). I look forward to hearing from you!
 {: .notice}
 
 
+### Who is Will?
+
+I'm an adult male human by the name of William Fletcher. Look, here's my likeness:
+
+![Portrait of Will](/assets/images/portrait.jpg "Me, 2020")
+{: .align-center width=200 height=200 style="border:8px solid #393e46"}
+
+
 ### How would you describe yourself?
 
 Well I'm mostly unremarkable. That's at least a good [prior](/bayes/).
 
 To give a quick impression, though, I'm an [ex-academic](/education/) who works
 with artificial intelligence techniques -- primarily machine learning. I can
-[talk to computers](/skills/) with relative ease. As for people, I value being
-*an introvert's extravert*: approachable, available, and open. Above all, I enjoy
-helping people to succeed and be happy.
+[talk to computers](/skills/) with relative ease. And people, too! To sum up
+my personality I'd say I'm *an introvert's extravert*: approachable, available,
+and open. Above all, I enjoy helping people to succeed and be happy.
+
+
+### What drives you?
 
 Some characteristics I like in myself are [mathematical thinking](/mathematical_thinking/),
 love of knowledge, a [humanizing](/humanizing/) instinct, and undiluted whimsy.
-I try to encourage and foster these in others also.
+They direct my everyday decisions, and I try to encourage and foster these in others also.
+
+I want to live in a world that is more considerate towards its present and future
+occupants, and less demanding of attention, conformity and resources. In my life
+I hope to embody that change to the extent that I'm able.
 
 
 ### What's your story?
@@ -48,8 +63,8 @@ When I fell out of love with the idea of being a chemist, I looked to pivot even
 harder towards maths, in the form of a second Master's degree. I left my PhD
 uncompleted, and took an MSc in
 [Computational Statistics and Machine Learning](http://www.csml.ucl.ac.uk) at
-UCL, which I finished in 2017. This was a scary move for an 'amateur'
-mathematician, but one of the best decisions I have ever made.
+UCL, which I finished in 2017. This was no doubt a scary move for an 'amateur'
+mathematician, but the decision has proven to be correct.
 
 Since then I've been rounding out my skills in industry and settling into my
 new life as one of the hipster tech elites of London.
