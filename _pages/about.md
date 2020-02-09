@@ -10,7 +10,7 @@ title: "About Will"
 > Will is a machine learning scientist based in London.
 
 Welcome, reader! Thank you for stopping by. If you need to get in touch with me,
-please use the [contact form](/contact/). I look forward to hearing from you!
+please use the [**contact form**](/contact/). I look forward to hearing from you!
 {: .notice}
 
 
@@ -20,10 +20,10 @@ I'm an adult male human by the name of William Fletcher. Here is my smiling face
 
 <img src="/assets/images/portrait.jpg" alt="My face" class="framec">
 
+You may assume I'm mostly unremarkable.
+
 
 ### How would you describe yourself?
-
-Well I'm mostly unremarkable. That's at least a good [prior](/bayes/).
 
 To give a quick impression, I'm an [ex-academic](/education/) who works
 with artificial intelligence techniques -- primarily machine learning. I can
@@ -56,7 +56,7 @@ I don't do much of either now, but musicianship is still a core part of my
 identity, and my oldest friendships grew out of the church youth group. At
 school I took A-levels in Music, Chemistry, Maths and Further Maths.
 
-See also: [Education](/education/).
+See also: [**Education**](/education/).
 {: .notice}
 
 I then studied [Chemistry](https://www.chem.ox.ac.uk) at Oxford, completing an
