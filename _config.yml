@@ -26,7 +26,10 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+# Enable processing of markdown within html tags (WARNING: html can no longer be indented)
+kramdown:
+  parse_block_html: true
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
