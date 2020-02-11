@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 # Enable processing of markdown within html tags (WARNING: html can no longer be indented)
 kramdown:
   parse_block_html: true
