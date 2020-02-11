@@ -14,7 +14,7 @@ please use the [**contact form**](/contact/). I look forward to hearing from you
 {: .notice}
 
 
-### Who is Will?
+### Who are you?
 
 I'm an adult male human by the name of William Fletcher. Here is my smiling face:
 
