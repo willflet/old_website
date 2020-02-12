@@ -2,7 +2,7 @@
 permalink: /education/
 layout: single
 toc: true
-toc_label: "Will's education"
+toc_label: "Education"
 toc_icon: "graduation-cap"
 author_profile: true
 title: "Will's education"
