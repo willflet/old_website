@@ -7,10 +7,14 @@ toc_icon: "user-alt"
 author_profile: true
 title: "About Will"
 ---
-> Will is a machine learning scientist based in London.
+<blockquote class="trimb"> *Will is a machine learning scientist based in London.*
+</blockquote>
 
 Welcome, reader! Thank you for stopping by. If you need to get in touch with me,
 please use the [**contact form**](/contact/). I look forward to hearing from you!
+{: .notice--primary}
+
+See also: [**Education**](/education/), [**Skills**](/skills/).
 {: .notice}
 
 
@@ -30,7 +34,6 @@ with artificial intelligence techniques -- primarily machine learning. I can
 [talk to computers](/skills/) with relative ease. And people, too! To sum up
 my personality I'd say I'm *an introvert's extravert*: approachable, available,
 and open. Above all, I enjoy helping people to succeed and be happy.
-
 
 ### What drives you?
 

@@ -1,0 +1,17 @@
+/* Custom image style with border */
+img.framec {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid #fff;
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0 0 12px 0px rgba(0,0,0,0.25)
+}
+
+/* Custom blockquote style with slimmer margins*/
+blockquote.trimb {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-style: normal;
+}

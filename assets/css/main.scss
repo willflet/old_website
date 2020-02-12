@@ -12,27 +12,10 @@ $monospace: Monaco, Consolas, "Lucida Console", monospace;
 
 $doc-font-size: 13;
 
-
 /* Color selections */
 $form-background-color: mix(#fff, #393e46, 75%);
-
-/* Custom image style with border */
-img.framec {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: 4px solid #fff;
-    border-radius: 8px;
-    width: 300px;
-    box-shadow: 0 0 12px 0px rgba(0,0,0,0.25)
-}
-
-blockquote.trimb {
-    margin-top: 5px;
-    margin-bottom: 15px;
-    font-style: normal;
-}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "webfonts/latofonts";
+@import "custom/custom";
