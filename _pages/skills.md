@@ -11,35 +11,39 @@ title: "Will's skills"
 See also: [**Education**](/education/)
 {: .notice}
 
-## Programming
+**General note**: In the tables below, the *Proficiency* rating should be read as combining a few factors: extent of knowledge, comfort in use, and relative rates of helping *vs* seeking help.
+{: .notice--info}
 
-From [Logo](https://en.wikipedia.org/wiki/Turtle_graphics) to [Pygame](https://en.wikipedia.org/wiki/Pygame), programming is often introduced through creativity and play. So it was with me. But it wasn't until 2013 that I properly learned a language, with Fortran...
+<br>
+
+# Programming
+## Technologies
+
+From [Logo](https://en.wikipedia.org/wiki/Turtle_graphics) to [Pygame](https://en.wikipedia.org/wiki/Pygame), programming is often introduced through creativity and play. So it was with me. But it wasn't until 2013 that I properly learned a language, with Fortran.
 
 Listed below are some of the technologies I've added to my repertoire since then.
-
-Note: the *Proficiency* rating should be read as combining a few factors: extent of knowledge, comfort in use, and relative rates of helping *vs* seeking help.
 
 ### Languages
 <blockquote class="trimb">
 
-| Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency |
 |:-|:-|:-|
 |---
-| Python | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i> &nbsp; expert |
+| Python | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;expert |
 |---
-| C | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; intermediate |
+| C | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;intermediate |
 |---
-| Fortran | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; advanced |
+| Fortran | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| sh | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; comfortable |
+| sh | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;comfortable |
 |---
-| R | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; intermediate |
+| R | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;intermediate |
 |---
-| SQL | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i> &nbsp; advanced |
+| SQL | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| MATLAB | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; comfortable |
+| MATLAB | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;comfortable |
 |---
-| LaTeX | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; comfortable |
+| LaTeX | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;comfortable |
 |---
 | *others* | <1 years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i> &#8239; *or less* &nbsp; ≤ novice |
 |---
@@ -50,16 +54,14 @@ Note: the *Proficiency* rating should be read as combining a few factors: extent
 ### Environments
 <blockquote class="trimb">
 
-| Environment &nbsp;&nbsp;&nbsp; | Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Environment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency |
 |:-|:-|:-|
 |---
-| Unix | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i> &nbsp; advanced |
+| Unix | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| Google Cloud | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; [certified](https://cloud.google.com/certification/data-engineer) |
+| Google Cloud | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;[certified](https://cloud.google.com/certification/data-engineer) |
 |---
-| ARM MCUs | <1 years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; intermediate |
-|---
-| Git | 3+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; advanced |
+| ARM MCUs | <1 years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;intermediate |
 |---
 
 </blockquote>
@@ -68,78 +70,123 @@ Note: the *Proficiency* rating should be read as combining a few factors: extent
 ### Libraries and Frameworks
 <blockquote class="trimb">
 
-| Library &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8239; | Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Library&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8239; | Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency |
 |:-|:-|:-|
 |---
-| NumPy, SciPy | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i> &nbsp; advanced |
+| NumPy, SciPy | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| Pandas | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i> &nbsp; advanced |
+| Pandas | 3+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| scikit-learn | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; advanced |
+| scikit-learn | 3+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| Matplotlib | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; comfortable |
+| Matplotlib | 5+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;comfortable |
 |---
-| TensorFlow | 3+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i> &nbsp; advanced |
+| TensorFlow | 3+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| Keras | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; advanced |
+| Keras | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| PyTorch | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; comfortable |
+| PyTorch | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;comfortable |
 |---
-| PyMC3 | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; intermediate |
+| PyMC3 | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;intermediate |
 |---
-| Edward (tfp) | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; advanced |
+| Edward (tfp) | 1+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| gym | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i> &nbsp; advanced |
+| gym | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
-| GCP APIs | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i> &nbsp; advanced |
+| GCP APIs | 2+ years | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
 |---
 | *others* | *various* | *various* |
 |---
 
 </blockquote>
 
+## Competencies
+Some skills in programming are not tied to a particular technology. Instead, they are transferable lessons learned through mistakes and conscious choice.
 
-## Other
+These are some of the habits I've picked up over the years:
 
-### Communication
+### Engineering
 <blockquote class="trimb">
 
-Technical writing  
-Technical presentation  
-Teaching  
-Visual design  
-Listening & awareness  
-Stakeholder engagement  
-Facilitating groups  
-Change management
+| Process&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency |
+|:-|:-|:-|
+|---
+| Version control (Git) | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
+|---
+| Packaging & docs | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;comfortable |
+|---
+| Automated testing | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;intermediate |
+|---
 
+</blockquote>
+
+### Design & Development
+<blockquote class="trimb">
+
+| Process&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Proficiency |
+|:-|:-|:-|
+|---
+| Problem decomposition | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;expert |
+|---
+| Debugging | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
+|---
+| System design | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="far fa-star" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
+|---
+| Organization & style | <i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star" style="color: #0092ca;"></i><i class="fas fa-star-half-alt" style="color: #0092ca;"></i>&nbsp;&nbsp;advanced |
+|---
+
+</blockquote>
+
+<br><br>
+
+# Other
+## Human
+### Communication
+<blockquote class="trimb">
+Getting ideas from one person's head into another is an art. It demands care, respect, dialogue, and more time than people often have -- but it is more important than people often think.
+
+I adore this process. Here's where I consider myself a good communicator:
+
+**Technical writing**  
+**Technical presentation**  
+**Teaching**  
+**Visual design**  
+**Listening & awareness**  
+**Stakeholder engagement**  
+**Facilitating groups**  
+**Change management**  
 </blockquote>
 
 
 ### Collaboration
 <blockquote class="trimb">
+Softer than communication, collaboration is all about *alignment*. That is, getting individuals to participate in something greater than themselves. In some environments this happens without effort, but this is the exception rather than the rule.
 
-Working together  
-Support  
-Mentorship & growth  
-Feedback & advocacy  
-Sharing & cultural health  
-Coordination of ideas  
-Evolving systems  
-Community engagement
+The following examples are where I feel like a positive contributor to collaborative working.
 
+**Division of labour**  
+**Support**  
+**Mentorship & growth**  
+**Feedback & advocacy**  
+**Sharing & cultural health**  
+**Coordination of ideas**  
+**Evolving systems**  
+**Community engagement**  
 </blockquote>
 
+## Technical
 
 ### Mathematics
 <blockquote class="trimb">
+When I retire I would love nothing more than to do amateur mathematical research. What a shame, then, that mathematical ability peaks in the first half of life.
 
-Probability & statistics  
-Linear algebra  
-Calculus & analysis  
-Geometry  
-Graphs & Combinatorics  
-Information Theory  
-Algorithms
+I have good understanding and capability in the following areas:
 
+**Probability & statistics**  
+**Linear algebra**  
+**Calculus & analysis**  
+**Geometry**  
+**Graphs & combinatorics**  
+**Information theory & signals**  
+**Algorithms**
 </blockquote>
