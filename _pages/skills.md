@@ -13,6 +13,12 @@ See also: [**Education**](/education/)
 
 ## Programming
 
+From [Logo](https://en.wikipedia.org/wiki/Turtle_graphics) to [Pygame](https://en.wikipedia.org/wiki/Pygame), programming is often introduced through creativity and play. So it was with me. But it wasn't until 2013 that I properly learned a language, with Fortran...
+
+Listed below are some of the technologies I've added to my repertoire since then.
+
+Note: the *Proficiency* rating should be read as combining a few factors: extent of knowledge, comfort in use, and relative rates of helping *vs* seeking help.
+
 ### Languages
 <blockquote class="trimb">
 
@@ -113,7 +119,7 @@ Change management
 ### Collaboration
 <blockquote class="trimb">
 
-Working together
+Working together  
 Support  
 Mentorship & growth  
 Feedback & advocacy  

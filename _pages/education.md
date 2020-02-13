@@ -15,7 +15,17 @@ See also: [**Skills**](/skills/)
 ## University College London
 ### *MSc Computational Statistics and Machine Learning (2017)*
 <blockquote class="trimb">
-<p style="margin-top: 20px; margin-bottom: 15px;">**Taught component**</p>
+
+<p style="margin-top: 20px; margin-bottom: 15px;">**Research component**</p>
+<blockquote class="trimb">
+<p style="margin-top: 20px; margin-bottom: 15px;">*Large-Scale Trajectory Clustering*</p>
+Comparison of existing and novel techniques for clustering trajectories, *i.e.* lists of points in *n*-dimensional space (perhaps with metadata). Development of a hierarchical probabilistic autoregression model for destination prediction.
+
+Supervisor: [Dr Ricardo Silva](https://www.ucl.ac.uk/statistics/people/ricardosilva)
+</blockquote>
+
+<details style="margin-top: 40px; margin-bottom: 15px;"><summary markdown="span">**Taught component**
+</summary>
 <blockquote class="trimb">
 <p style="margin-top: 20px; margin-bottom: 15px;">Core modules</p>
 <details><summary markdown="span">*Statistical Models & Data Analysis*
@@ -75,15 +85,7 @@ Masterclasses in deep learning and reinforcement learning.
 Including: recurrent units, convolutions, attention and memory, generative models, variational inference, policies and planning, model-based and model-free agents.
 
 </blockquote></details>
-</blockquote>
-
-<p style="margin-top: 45px; margin-bottom: 15px;">**Research component**</p>
-<blockquote class="trimb">
-<p style="margin-top: 20px; margin-bottom: 15px;">*Large-Scale Trajectory Clustering*</p>
-Comparison of existing and novel techniques for clustering trajectories, *i.e.* lists of points in *n*-dimensional space (perhaps with metadata). Development of a hierarchical probabilistic autoregression model for destination prediction.
-
-Supervisor: [Dr Ricardo Silva](https://www.ucl.ac.uk/statistics/people/ricardosilva)
-</blockquote>
+</blockquote></details>
 </blockquote>
 
 ## Oxford University
@@ -113,13 +115,13 @@ Other coordinate transforms interchange angles and distances, resulting in a ran
 
 ### *MChem Chemistry (2014)*
 <blockquote class="trimb">
-<details><summary markdown="span" style="margin-top: 20px;">Part I (examinations)
-</summary><blockquote class="trimb">
-<p style="margin-top: 10px; margin-bottom: 15px;">*First-class honours*</p>
-Supplementary subject: Quantum chemistry
-</blockquote></details>
 
-<details><summary markdown="span">Part II (research)
+
+<p style="margin-top: 20px; margin-bottom: 15px;">First-class honours</p>
+Supplementary subject: Quantum chemistry
+
+
+<details style="margin-top: 20px;"><summary markdown="span">**Part II (research)**
 </summary><blockquote class="trimb">
 
 <p style="margin-top: 10px; margin-bottom: 15px;">*A Bayesian Total Scattering Route to Membrane Protein Structure*</p>
