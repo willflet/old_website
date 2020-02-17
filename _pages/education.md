@@ -17,18 +17,18 @@ See also: [**Skills**](/skills/)
 ### *MSc Computational Statistics and Machine Learning (2017)*
 <blockquote class="trimb">
 
-<p style="margin-top: 20px; margin-bottom: 15px;" markdown="span">**Research component**</p>
+<p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">**Research component**</p>
 <blockquote class="trimb" markdown="block">
-<p style="margin-top: 20px; margin-bottom: 15px;" markdown="span">*Large-Scale Trajectory Clustering*</p>
+<p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">*Large-Scale Trajectory Clustering*</p>
 Comparison of existing and novel techniques for clustering trajectories, *i.e.* lists of points in *n*-dimensional space (perhaps with metadata). Development of a hierarchical probabilistic autoregression model for destination prediction.
 
 Supervisor: [Dr Ricardo Silva](https://www.ucl.ac.uk/statistics/people/ricardosilva)
 </blockquote>
 
-<details style="margin-top: 40px; margin-bottom: 15px;"><summary markdown="span">**Taught component**
+<details style="margin-top: 40px; margin-bottom: 1em;"><summary markdown="span">**Taught component**
 </summary>
 <blockquote class="trimb">
-<p style="margin-top: 20px; margin-bottom: 15px;">Core modules</p>
+<p style="margin-top: 1.25em; margin-bottom: 1em;">Core modules</p>
 <details><summary markdown="span">*Statistical Models & Data Analysis*
 </summary><blockquote class="trimb" markdown="block">
 Theory and application of linear and related generalized models.
@@ -50,7 +50,7 @@ Techniques for understanding and discovering structure in unpaired data.
 
 Including: probability distributions, Bayesian reasoning and inference, hierarchical models, probabilistic graphical models, Gaussian Processes.
 </blockquote></details>
-<p style="margin-top: 30px; margin-bottom: 15px;">Optional modules</p>
+<p style="margin-top: 30px; margin-bottom: 1em;">Optional modules</p>
 <details><summary markdown="span">*Information Retrieval & Data Mining*
 </summary><blockquote class="trimb" markdown="block">
 Techniques for organizing information.
@@ -92,7 +92,7 @@ Including: recurrent units, convolutions, attention and memory, generative model
 ## Oxford University
 ### *DPhil Inorganic Chemistry (incomplete)*
 <blockquote class="trimb">
-<p style="margin-top: 20px; margin-bottom: 15px;" markdown="span">Supervisor: [Prof. Andrew Goodwin](http://research.chem.ox.ac.uk/andrew-goodwin.aspx)</p>
+<p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">Supervisor: [Prof. Andrew Goodwin](http://research.chem.ox.ac.uk/andrew-goodwin.aspx)</p>
 
 <!-- <details><summary markdown="span">Research
 </summary><blockquote class="trimb">
@@ -117,13 +117,13 @@ Other coordinate transforms interchange angles and distances, resulting in a ran
 ### *MChem Chemistry (2014)*
 <blockquote class="trimb">
 
-<p style="margin-top: 20px; margin-bottom: 15px;">First-class honours</p>
+<p style="margin-top: 1.25em; margin-bottom: 1em;">First-class honours</p>
 Supplementary subject: Quantum chemistry
 
-<details style="margin-top: 20px;"><summary markdown="span">**Part II (research)**
+<details style="margin-top: 1.25em;"><summary markdown="span">**Part II (research)**
 </summary><blockquote class="trimb" markdown="block">
 
-<p style="margin-top: 10px; margin-bottom: 15px;" markdown="span">*A Bayesian Total Scattering Route to Membrane Protein Structure*</p>
+<p style="margin-top: 10px; margin-bottom: 1em;" markdown="span">*A Bayesian Total Scattering Route to Membrane Protein Structure*</p>
 
 Development of a Bayesian Monte Carlo procedure for ascertaining the fold of proteins in aqueous environments. The key research question was "can we compensate for the orientational disorder of total scattering information by including prior knowledge from other sources?".
 
