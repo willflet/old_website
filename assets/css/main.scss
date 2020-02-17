@@ -12,10 +12,9 @@ $monospace: Monaco, Consolas, "Lucida Console", monospace;
 
 $type-size-6: 0.86em;
 
-/* Color selections */
-$form-background-color: mix(#fff, #393e46, 75%);
+$global-transition: none;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "custom/skin"; // skin
 @import "minimal-mistakes"; // main partials
-@import "webfonts/latofonts";
-@import "custom/custom";
+@import "webfonts/latofonts"; // fonts
+@import "custom/classes"; // html objects
