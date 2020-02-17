@@ -13,15 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Will Fletcher
+name: William Fletcher
+title: Bayesian Saddles
+masthead_title: Bayesian Saddles
+logo: /assets/images/saddle.png
+subtitle: adventures in information
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Personal pages of Will Fletcher, a machine learning scientist based in London.
-  Here you will find my side projects, thoughts for the day, and information
+  Here you will find my side projects, thoughts for the day, and clues
   about what I'm up to.
 twitter_username: willflet
 github_username: willflet
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -33,8 +37,9 @@ kramdown:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /featured/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+locale: "en-GB"
 
 include:
   - _pages

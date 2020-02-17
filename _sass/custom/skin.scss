@@ -1,0 +1,78 @@
+/* ==========================================================================
+   Custom Colors
+   ========================================================================== */
+
+$gray: #7a7a88 !default;
+$dark-gray: mix(#000, $gray, 40%) !default;
+$darker-gray: mix(#000, $gray, 60%) !default;
+$light-gray: mix(#fff, $gray, 50%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+
+$background-color: #fff !default;
+$code-background-color      : $lighter-gray !default;
+$code-background-color-dark : $light-gray !default;
+$text-color: #222831 !default;
+$muted-text-color: #393e46 !default;
+$border-color: mix(#fff, $muted-text-color, 75%) !default;
+$form-background-color: $lighter-gray !default;
+$footer-background-color: #081214 !default;
+
+$primary-color: #081214 !default;
+$success-color : #0092ca !default;
+$warning-color : #e67e22 !default;
+$danger-color : #c0392b !default;
+$info-color : $light-gray !default;
+$focus-color: $success-color !default;
+$active-color: mix(#fff, $primary-color, 90%) !default;
+
+/* links */
+$link-color: $muted-text-color !default;
+$link-color-hover : $primary-color !default;
+$link-color-visited : mix(#fff, $link-color, 25%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $light-gray !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+/* syntax highlighting (base16) */
+$base00: #263238 !default;
+$base01: #2e3c43 !default;
+$base02: #314549 !default;
+$base03: #546e7a !default;
+$base04: #b2ccd6 !default;
+$base05: #eeffff !default;
+$base06: #eeffff !default;
+$base07: #ffffff !default;
+$base08: #f07178 !default;
+$base09: #f78c6c !default;
+$base0a: #ffcb6b !default;
+$base0b: #c3e88d !default;
+$base0c: #89ddff !default;
+$base0d: #82aaff !default;
+$base0e: #c792ea !default;
+$base0f: #ff5370 !default;
+
+$body-color: #fff !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.author__urls.social-icons .fa,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+/* next/previous buttons */
+.pagination--pager {
+  color: $text-color;
+  background-color: $primary-color;
+  border-color: transparent;
+
+  &:visited {
+    color: $text-color;
+  }
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}

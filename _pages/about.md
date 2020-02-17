@@ -1,21 +1,18 @@
 ---
 permalink: /about/
-layout: single
 toc: true
-toc_label: "About Will"
+toc_sticky: true
+toc_label: "&nbsp;&nbsp;About Will"
 toc_icon: "user-alt"
 author_profile: true
 title: "About Will"
 ---
-<blockquote class="trimb"> *Will is a machine learning scientist based in London.*
-</blockquote>
 
-Welcome, reader! Thank you for stopping by. If you need to get in touch with me,
-please use the [**contact form**](/contact/). I look forward to hearing from you!
-{: .notice--primary}
+If you need to get in touch with me, please use the [**contact form**](/contact/).
+{: .notice--info}
 
 See also: [**Education**](/education/), [**Skills**](/skills/).
-{: .notice}
+{: .notice--primary}
 
 
 ### Who are you?
@@ -31,8 +28,9 @@ You may assume I'm mostly unremarkable.
 
 To give a quick impression, I'm an [ex-academic](/education/) who works
 with artificial intelligence techniques -- primarily machine learning. I can
-[talk to computers](/skills/) with relative ease. And people, too! To sum up
-my personality I'd say I'm *an introvert's extravert*: approachable, available,
+[talk to computers](/skills/) with relative ease.
+
+To sum up my personality I'd say I'm *an introvert's extravert*: approachable, available,
 and open. Above all, I enjoy helping people to succeed and be happy.
 
 ### What drives you?
@@ -47,7 +45,7 @@ goes next. And I hope to be involved somehow. Though many things are wonderful
 about this world, I want to see one that is *more considerate* towards its present
 and future occupants, and *less demanding* of attention, conformity or resources.
 
-Literally, though? Trains.
+Literally, though? Trains.&nbsp;&nbsp;<i class="fas fa-train"></i>
 
 
 ### What's your story?
@@ -60,7 +58,7 @@ identity, and my oldest friendships grew out of the church youth group. At
 school I took A-levels in Music, Chemistry, Maths and Further Maths.
 
 See also: [**Education**](/education/).
-{: .notice}
+{: .notice--primary}
 
 I then studied [Chemistry](https://www.chem.ox.ac.uk) at Oxford, completing an
 MChem in 2014. I specialized at the mathematical end of the subject, with my
@@ -68,9 +66,9 @@ final year spent on a computational project in a
 [crystallography group](https://goodwingroup.wordpress.com). I stayed for a
 further 2 years as a PhD student, holding teaching positions alongside my research.
 
-Sadly, I fell out of love with the idea of being a chemist. Instead, I looked to
-pivot even harder towards maths, hoping my amateur experience would hold up. In
-a move that alarmed my grandmother, I left my PhD uncompleted, and took an MSc
+As time went by, I fell out of love with the idea of being a chemist and tried
+to pivot even harder towards maths, hoping my amateur experience would hold up.
+In a move that alarmed my grandmother, I left my PhD unfinished, and took an MSc
 in [Computational Statistics and Machine Learning](http://www.csml.ucl.ac.uk) at
 UCL, which I finished in 2017.
 
