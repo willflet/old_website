@@ -4,10 +4,11 @@ permalink: /
 title: "Bayesian Saddles"
 header:
   overlay_color: "#081214"
-  overlay_filter: "0.4"
+  overlay_filter: rbga(0, 0, 0, 0.4)
   overlay_image: /assets/images/homepage/chladni.jpg
-  cta_label: "<i class='fas fa-user-alt'></i>&nbsp;&nbsp;&nbsp;About Will"
-  cta_url: "/about/"
+  actions:
+    - label: "<i class='fas fa-user-alt'></i>&nbsp;&nbsp;&nbsp;About Will"
+      url: "/about/"
   caption: 'Image: [Chris Smith](https://www.flickr.com/photos/cjsmithphotography/), [*Chladni Plates*](https://www.flickr.com/photos/cjsmithphotography/8800645088/) *\[portion\]*. Licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/).'
 excerpt: "Personal pages of William [Will] Fletcher."
 intro:
