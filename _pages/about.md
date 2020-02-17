@@ -11,17 +11,15 @@ title: "About Will"
 If you need to get in touch with me, please use the [**contact form**](/contact/).
 {: .notice--info}
 
-See also: [**Education**](/education/), [**Skills**](/skills/).
+See also: [**Education**](/about/education/), [**Skills**](/about/skills/).
 {: .notice--primary}
 
 
 ### Who are you?
 
-I'm an adult male human by the name of William Fletcher. Here is my smiling face:
+I'm this guy (you can assume I'm mostly unremarkable):
 
 <img src="/assets/images/portrait.jpg" alt="My face" class="framec">
-
-You may assume I'm mostly unremarkable.
 
 
 ### How would you describe yourself?
@@ -35,8 +33,8 @@ and open. Above all, I enjoy helping people to succeed and be happy.
 
 ### What drives you?
 
-Some characteristics I like in myself are [mathematical thinking](/mathematical_thinking/),
-love of knowledge, a [humanizing](/humanizing/) instinct, and undiluted whimsy.
+Some characteristics I like in myself are [mathematical thinking](/faq/#mathematical-thinking),
+love of knowledge, a [humanizing](/faq/#humanizing) instinct, and undiluted whimsy.
 These direct my everyday decisions, and I try to encourage and foster such
 qualities in others as well.
 
@@ -57,7 +55,7 @@ I don't do much of either now, but musicianship is still a core part of my
 identity, and my oldest friendships grew out of the church youth group. At
 school I took A-levels in Music, Chemistry, Maths and Further Maths.
 
-See also: [**Education**](/education/).
+See also: [**Education**](/about/education/).
 {: .notice--primary}
 
 I then studied [Chemistry](https://www.chem.ox.ac.uk) at Oxford, completing an

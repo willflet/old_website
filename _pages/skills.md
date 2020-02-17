@@ -1,5 +1,5 @@
 ---
-permalink: /skills/
+permalink: /about/skills/
 layout: single
 toc: true
 toc_sticky: true
@@ -9,7 +9,7 @@ author_profile: true
 title: "Will's skills"
 ---
 
-See also: [**Education**](/education/)
+See also: [**Education**](/about/education/)
 {: .notice--primary}
 
 # Programming
