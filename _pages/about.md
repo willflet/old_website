@@ -6,6 +6,7 @@ toc_label: "&nbsp;&nbsp;About Will"
 toc_icon: "user-alt"
 author_profile: true
 title: "About Will"
+custom_css: darknav
 ---
 
 If you need to get in touch with me, please use the [**contact form**](/contact/).

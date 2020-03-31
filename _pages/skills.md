@@ -1,12 +1,11 @@
 ---
 permalink: /about/skills/
-layout: single
 toc: true
 toc_sticky: true
 toc_label: "&nbsp;&nbsp;Skills"
 toc_icon: "pencil-ruler"
-author_profile: true
 title: "Will's skills"
+custom_css: darknav
 ---
 
 See also: [**Education**](/about/education/)
@@ -164,12 +163,11 @@ Softer than communication, collaboration is all about *alignment*. That is, gett
 
 The following examples are where I feel like a positive contributor to collaborative working.
 
-**Division of labour**  
 **Support**  
 **Mentorship & growth**  
 **Feedback & advocacy**  
 **Sharing & cultural health**  
-**Coordination of ideas**  
+**Coordination of effort & ideas**  
 **Evolving systems**  
 **Community engagement**  
 </blockquote>

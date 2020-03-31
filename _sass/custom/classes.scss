@@ -3,10 +3,9 @@ img.framec {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 4px solid #fff;
-  border-radius: 8px;
+  border: 5px solid #fff;
   width: 300px;
-  box-shadow: 0 0 12px 0px rgba(0,0,0,0.25)
+  box-shadow: 0 0 12px 0px rgba(0.04,0.06,0.07,0.25)
 }
 
 /* Custom blockquote style with slimmer margins*/
@@ -19,7 +18,7 @@ blockquote.trimb {
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
-  background-color: $background-color;
+  background-color: transparent;
   font-size: 16px;
 
   @include breakpoint($medium) {
@@ -56,4 +55,13 @@ aside.sidebar__right {
   &.sticky {
     top: 5.75em;
   }
+}
+
+.site-title {
+    padding-left: 0.5em;
+}
+
+thead {
+    background-color: mix(#fff, $primary-color, 90%);
+    color: $dark-gray;
 }

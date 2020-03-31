@@ -1,12 +1,11 @@
 ---
 permalink: /about/education/
-layout: single
 toc: true
 toc_sticky: true
 toc_label: "&nbsp;&nbsp;Education"
 toc_icon: "graduation-cap"
-author_profile: true
 title: "Will's education"
+custom_css: darknav
 ---
 
 See also: [**Skills**](/about/skills/)
@@ -20,7 +19,7 @@ See also: [**Skills**](/about/skills/)
 <p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">**Research component**</p>
 <blockquote class="trimb" markdown="block">
 <p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">*Large-Scale Trajectory Clustering*</p>
-Comparison of existing and novel techniques for clustering trajectories, *i.e.* lists of points in *n*-dimensional space (perhaps with metadata). Development of a hierarchical probabilistic autoregression model for destination prediction.
+Comparison of existing and novel techniques for clustering trajectories, *i.e.* lists of points in *n*-dimensional space (perhaps with metadata). Development of a hierarchical probabilistic autoregression model for taxi destination prediction.
 
 Supervisor: [Dr Ricardo Silva](https://www.ucl.ac.uk/statistics/people/ricardosilva)
 </blockquote>
