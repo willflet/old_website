@@ -21,7 +21,7 @@ $primary-color: #081214 !default;
 $success-color : #0092ca !default;
 $warning-color : #e67e22 !default;
 $danger-color : #c0392b !default;
-$info-color : $light-gray !default;
+$info-color : $primary-color !default;
 $focus-color: $success-color !default;
 $active-color: mix(#fff, $primary-color, 90%) !default;
 
@@ -54,7 +54,7 @@ $base0f: #ff5370 !default;
 $body-color: #fff !default;
 
 .page__footer {
-  color: #fff !important; // override
+  color: $background-color !important; // override
 }
 
 .author__urls.social-icons .fa,

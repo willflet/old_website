@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 title: "Bayesian Saddles"
+logo: /assets/images/logo.png
 header:
   overlay_color: "#081214"
   overlay_filter: rbga(0, 0, 0, 0.4)

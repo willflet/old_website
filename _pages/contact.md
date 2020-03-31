@@ -3,6 +3,7 @@ permalink: /contact/
 layout: single
 author_profile: true
 title: "Contact Will"
+custom_css: darknav
 ---
 
 <script type="text/javascript">var submitted=false;</script>

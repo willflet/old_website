@@ -1,0 +1,27 @@
+/* ==========================================================================
+   Dark navigation bar
+   ========================================================================== */
+
+.masthead,
+.masthead nav {
+    background-color: #081214;
+}
+
+.masthead nav a {
+    color: #fff;
+}
+.masthead nav a:hover {
+    color: #bcbcc3;
+}
+
+.masthead nav button {
+    color: #fff;
+}
+
+.masthead nav button:hover {
+    color: #bcbcc3;
+}
+
+.masthead a.site-logo img {
+    border: 2.25px solid #fff;
+}
