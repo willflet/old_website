@@ -1,10 +1,10 @@
 ---
 permalink: /faq/
-author_profile: false
+author_profile: true
 title: "FAQ"
 custom_css: darknav
 ---
 
-## <a name="mathematical-thinking"></a> Mafematical thinking
+## <a name="mathematical-thinking"></a> Mathematical thinking
 
-## <a name="humanizing"></a> Oomanizing
+## <a name="humanizing"></a> Humanizing
