@@ -2,10 +2,9 @@
 layout: splash
 permalink: /
 title: "Bayesian Saddles"
-logo: /assets/images/logo.png
 header:
   overlay_color: "#081214"
-  overlay_filter: rbga(0, 0, 0, 0.4)
+  overlay_filter: "0.4"
   overlay_image: /assets/images/homepage/chladni.jpg
   actions:
     - label: "<i class='fas fa-user-alt'></i>&nbsp;&nbsp;&nbsp;About Will"
