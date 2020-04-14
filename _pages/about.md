@@ -25,9 +25,9 @@ I'm this guy (you can assume I'm mostly unremarkable):
 
 ### How would you describe yourself?
 
-To give a quick impression, I'm an [ex-academic](/education/) who works
+To give a quick impression, I'm an [ex-academic](/about/education/) who works
 with artificial intelligence techniques -- primarily machine learning. I can
-[talk to computers](/skills/) with relative ease.
+[talk to computers](/about/skills/) with relative ease.
 
 To sum up my personality I'd say I'm *an introvert's extravert*: approachable, available,
 and open. Above all, I enjoy helping people to succeed and be happy.
