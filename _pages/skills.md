@@ -40,6 +40,8 @@ Listed below are some of the technologies I've added to my repertoire since then
 |---
 | SQL | 2+ years | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i>&nbsp;&nbsp;advanced |
 |---
+| regexp | 4+ years | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i>&nbsp;&nbsp;advanced |
+|---
 | MATLAB | 2+ years | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i><i class="far fa-star" style="color: #081214;"></i>&nbsp;&nbsp;comfortable |
 |---
 | LaTeX | 5+ years | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i><i class="far fa-star" style="color: #081214;"></i>&nbsp;&nbsp;comfortable |

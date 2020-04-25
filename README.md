@@ -1,1 +1,1 @@
-[Personal website](https://willflet.github.io), hosted by GitHub Pages.
+[Personal website](https://www.bayesiansaddles.com), hosted by GitHub Pages.
