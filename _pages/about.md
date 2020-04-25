@@ -6,7 +6,9 @@ toc_label: "&nbsp;&nbsp;About Will"
 toc_icon: "user-alt"
 author_profile: true
 title: "About Will"
-custom_css: darknav
+custom_css:
+  - darknav
+  - decorations
 ---
 
 If you need to get in touch with me, please use the [**contact form**](/contact/).
@@ -20,7 +22,8 @@ See also: [**Education**](/about/education/), [**Skills**](/about/skills/).
 
 I'm this guy (you can assume I'm mostly unremarkable):
 
-<img src="/assets/images/portrait.jpg" alt="My face" class="framec">
+<img src="/assets/images/portrait.jpg" alt="My face" class="framed centred" style="
+width: 300px;">
 
 
 ### How would you describe yourself?

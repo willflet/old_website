@@ -1,20 +1,3 @@
-/* Custom image style with border */
-img.framec {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: 5px solid #fff;
-  width: 300px;
-  box-shadow: 0 0 12px 0px rgba(0.04,0.06,0.07,0.25)
-}
-
-/* Custom blockquote style with slimmer margins*/
-blockquote.trimb {
-  margin-top: 0.35em;
-  margin-bottom: 1em;
-  font-style: normal;
-}
-
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
@@ -34,34 +17,39 @@ html {
   }
 }
 
-h1.page__title {
-  margin-top: 1.25em;
+/* Custom image style */
+img.centred {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-nav.toc {
-  margin-top: -2.25em;
+/* Custom blockquote style with slimmer margins*/
+blockquote.trimb {
+  margin-top: 0.35em;
+  margin-bottom: 1em;
+  font-style: normal;
 }
 
-div.sidebar{
-  margin-top: 1.6em;
-
-  img {
-    margin-bottom: 0.5em;
-  }
-
+.text-error {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
 }
-
-aside.sidebar__right {
-  &.sticky {
-    top: 5.75em;
-  }
+.text-error:before {
+  content: '\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f'; /* too much? */
+  max-width: 100%;
+  position: absolute;
+  white-space: nowrap;
+  bottom: -3px;
 }
-
-.site-title {
-    padding-left: 0.5em;
+.text-error.grammar:before {
+  color: green;
 }
-
-thead {
-    background-color: mix(#fff, $primary-color, 90%);
-    color: $dark-gray;
+.text-error.spelling:before {
+  color: red;
+}
+.text-error.other:before {
+  color: blue;
 }

@@ -53,6 +53,24 @@ $base0f: #ff5370 !default;
 
 $body-color: #fff !default;
 
+blockquote {
+  color: $gray;
+  margin: 2em 1em 2em 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-style: italic;
+  border-left: 0.25em solid $light-gray !important;
+
+  cite {
+    font-style: italic;
+
+    &:before {
+      content: "\2014";
+      padding-right: 5px;
+    }
+  }
+}
+
 .page__footer {
   color: $background-color !important; // override
 }
@@ -75,4 +93,60 @@ $body-color: #fff !default;
 
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
+}
+
+h1.page__title {
+  margin-top: 1.25em;
+}
+
+nav.toc {
+  margin-top: -2.25em;
+  margin-left: 1em;
+}
+
+div.sidebar{
+  margin-top: 1.6em;
+
+  img {
+    margin-bottom: 0.5em;
+  }
+
+}
+
+aside.sidebar__right {
+  &.sticky {
+    top: 5.75em;
+  }
+}
+
+.site-title {
+  padding-left: 0.5em;
+}
+
+thead {
+  background-color: mix(#fff, $primary-color, 90%);
+  color: $dark-gray;
+}
+
+ol {
+  list-style: none;
+  counter-reset: item;
+}
+
+ol > li {
+  counter-increment: item;
+  margin-bottom: 1em;
+}
+
+ol > li:before {
+  margin-right: 0.75em;
+  content: counter(item);
+  background: $light-gray;
+  border-radius: 50%;
+  color: white;
+  font-size: smaller;
+  font-weight: bold;
+  width: 1.5em;
+  text-align: center;
+  display: inline-block;
 }
