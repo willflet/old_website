@@ -17,11 +17,15 @@ html {
   }
 }
 
-/* Custom image style */
-img.centred {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+nav.toc {
+  margin-top: 1em;
+  @include breakpoint($large) {
+      margin-top: -2.25em;
+  }
+  @include breakpoint($x-large) {
+      margin-top: -2.25em;
+      margin-left: 1em;
+  }
 }
 
 /* Custom blockquote style with slimmer margins*/
