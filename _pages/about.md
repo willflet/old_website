@@ -22,7 +22,7 @@ See also: [**Education**](/about/education/), [**Skills**](/about/skills/).
 
 I'm this guy (you can assume I'm mostly unremarkable):
 
-<img src="/assets/images/portrait.jpg" alt="My face" class="framed centred" style="
+![Picture of Will](/assets/images/portrait.jpg){: .align-center .framed style="
 width: 300px;">
 
 
