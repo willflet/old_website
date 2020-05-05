@@ -22,8 +22,7 @@ See also: [**Education**](/about/education/), [**Skills**](/about/skills/).
 
 I'm this guy (you can assume I'm mostly unremarkable):
 
-![Picture of Will](/assets/images/portrait.jpg){: .align-center .framed style="
-width: 300px;">
+![Picture of Will](/assets/images/portrait.jpg){: .align-center .framed style="width: 300px;"}
 
 
 ### How would you describe yourself?
