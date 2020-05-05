@@ -34,26 +34,3 @@ blockquote.trimb {
   margin-bottom: 1em;
   font-style: normal;
 }
-
-.text-error {
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  vertical-align: top;
-}
-.text-error:before {
-  content: '\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f'; /* too much? */
-  max-width: 100%;
-  position: absolute;
-  white-space: nowrap;
-  bottom: -3px;
-}
-.text-error.grammar:before {
-  color: green;
-}
-.text-error.spelling:before {
-  color: red;
-}
-.text-error.other:before {
-  color: blue;
-}
