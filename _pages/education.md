@@ -9,7 +9,7 @@ custom_css: darknav
 ---
 
 See also: [**Skills**](/about/skills/)
-{: .notice--primary}
+{: .notice--success}
 
 
 ## University College London

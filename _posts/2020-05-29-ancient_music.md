@@ -17,9 +17,9 @@ toc_icon: "music"
 The oldest musical composition, and why it doesn't sound like [this](https://www.youtube.com/watch?v=kGZNbRKlzjg).  
 Or [this](https://www.youtube.com/watch?v=QpxN2VXPMLc).
 
-***Disclaimer**: this is not a peer-reviewed article. Its purpose is to entertain and educate, not to consolidate research. I have made a reasonable effort to ensure accuracy and fair representation of the facts, but material below should not be relied upon as a primary reference.*
+***Disclaimer***: *this is not a peer-reviewed article. Its purpose is to entertain and educate, not to consolidate research. I have made a reasonable effort to ensure accuracy and fair representation of the facts, but material below should not be relied upon as a primary reference.
 <br /><br />
-*Image attributions can be found at the [end of the article](#image-attributions)*
+Image attributions can be found at the [end of the article](#image-attributions)*
 {: .notice--warning}
 
 ![Cuneiform impressions](/assets/images/posts/hurrian/banner1.jpg){: .align-center .framed .poem-banner-top}
@@ -488,7 +488,7 @@ Overall, then, we're not going to get much more help from the tablet. Extracting
 
 Now it's finally time to see some versions of the piece in its entirety.
 
-***Legal considerations**: In order to avoid navigating what is copyrighted and what is public domain, and to maintain consistency between works, I've chosen to create automated equivalents following the rules above, thus reproducing the guiding concepts of each work rather than the work itself. The differences do not affect my evaluations.*
+***Legal considerations***: *In order to avoid navigating what is copyrighted and what is public domain, and to maintain consistency between works, I've chosen to create automated equivalents following the rules above, thus reproducing the guiding concepts of each work rather than the work itself. The differences do not affect my evaluations.*
 {: .notice--warning}
 
 In the light of UET VII 74, interpretations based on **ascending tunings** are now known to be incorrect. This includes those of **David Wulstan** (1971), **Anne Draffkorn Kilmer** (1974), and **Marcelle Duchesne-Guillemin** (1977), who are otherwise credited with the major early work in this area).
@@ -629,9 +629,11 @@ My inexpert opinion is that while, yes, it would be easier to accept a monophoni
 ## Next steps
 And that's where I'll leave this story for now.
 
-If and when I revisit this, it will be because I want to try out some more possible interpretations. I'm reluctant to play aimlessly with complicated ideas, for Bayesian reasons. But there are plenty of untapped simple ones to be found. For example, one thought I've left unpursued is that the numbers could indicate pre-defined patterns to play on each interval, like ballet positions or tones in Mandarin.
+If and when I revisit this, it will be because I want to try out some more possible interpretations. I'm reluctant to tinker aimlessly with complicated ideas (it's not very Bayesian). But there are plenty of untapped simple ones to be found. For example, the numbers could indicate pre-defined patterns to play on each interval, like ballet positions or tones in Mandarin.
 
-Thank you for joining me on this adventure in information. May it be the start of one of your own.
+If you're interested in exploring more ancient music, the most famous example is the [Seikilos epitaph](https://en.wikipedia.org/wiki/Seikilos_epitaph), from around 100 CE. It's in great condition and the musical notation is well known, so there's been no problem performing it. Between you and me though, I prefer something with a bit more mystery, even if it can't yet be solved.
+
+Thank you for joining me on this adventure in information; I look forward to another.
 
 If you would like to reach me with a comment or request, please use the [contact form](/contact/).
 {: .notice--success}
