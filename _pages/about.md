@@ -12,10 +12,10 @@ custom_css:
 ---
 
 If you need to get in touch with me, please use the [**contact form**](/contact/).
-{: .notice--info}
+{: .notice--success}
 
 See also: [**Education**](/about/education/), [**Skills**](/about/skills/).
-{: .notice--primary}
+{: .notice--success}
 
 
 ### Who are you?
@@ -59,7 +59,7 @@ identity, and my oldest friendships grew out of the church youth group. At
 school I took A-levels in Music, Chemistry, Maths and Further Maths.
 
 See also: [**Education**](/about/education/).
-{: .notice--primary}
+{: .notice--success}
 
 I then studied [Chemistry](https://www.chem.ox.ac.uk) at Oxford, completing an
 MChem in 2014. I specialized at the mathematical end of the subject, with my

@@ -9,7 +9,7 @@ custom_css: darknav
 ---
 
 See also: [**Education**](/about/education/)
-{: .notice--primary}
+{: .notice--success}
 
 # Programming
 
@@ -48,6 +48,7 @@ Listed below are some of the technologies I've added to my repertoire since then
 |---
 | *others* | <1 years | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i> &#8239; *or less* &nbsp; ≤ novice |
 |---
+{: .table style="table-layout:auto;"}
 
 </blockquote>
 
@@ -64,6 +65,7 @@ Listed below are some of the technologies I've added to my repertoire since then
 |---
 | ARM MCUs | <1 years | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i><i class="far fa-star" style="color: #081214;"></i><i class="far fa-star" style="color: #081214;"></i>&nbsp;&nbsp;intermediate |
 |---
+{: .table style="table-layout:auto;"}
 
 </blockquote>
 
@@ -98,6 +100,7 @@ Listed below are some of the technologies I've added to my repertoire since then
 |---
 | *others* | *various* | *various* |
 |---
+{: .table style="table-layout:auto;"}
 
 </blockquote>
 
@@ -118,6 +121,7 @@ These are some of the habits I've picked up over the years:
 |---
 | Automated testing | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i><i class="far fa-star" style="color: #081214;"></i><i class="far fa-star" style="color: #081214;"></i>&nbsp;&nbsp;intermediate |
 |---
+{: .table style="table-layout:auto;"}
 
 </blockquote>
 
@@ -135,6 +139,7 @@ These are some of the habits I've picked up over the years:
 |---
 | Organization & style | <i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star" style="color: #081214;"></i><i class="fas fa-star-half-alt" style="color: #081214;"></i>&nbsp;&nbsp;advanced |
 |---
+{: .table style="table-layout:auto;"}
 
 </blockquote>
 
