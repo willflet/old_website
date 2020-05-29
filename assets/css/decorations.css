@@ -1,5 +1,5 @@
 /* frame for image */
-img.framed {
+.framed {
   border: 5px solid #fff;
   box-shadow: 0 0 12px 0px rgba(0.04,0.06,0.07,0.25);
 }
@@ -28,11 +28,32 @@ img.framed {
   color: blue;
 }
 
-.caption {
+p.caption {
+    margin-bottom: 2.5em;
     text-align: center;
     color: #7a7a88;
-    margin-top: 0.5em;
-    padding-bottom: -1em;
-    font-size: 80%;
+    font-size: 90%;
     font-variant: small-caps;
+}
+
+p.caption img {
+    margin-top: 2.5em;
+    margin-bottom: 0.75em;
+}
+
+p.poem {
+    text-align: center;
+    color: #7a7a88;
+}
+
+img.poem-banner-top {
+    width: 70%;
+    margin-top: 5.5em;
+    margin-bottom: 1.5em;
+}
+
+img.poem-banner-bottom {
+    width: 70%;
+    margin-top: 0em;
+    margin-bottom: 2em;
 }
