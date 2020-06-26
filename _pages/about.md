@@ -12,8 +12,7 @@ custom_css:
 ---
 
 If you need to get in touch with me, please use the [**contact form**](/contact/).
-{: .notice--success}
-
+<br /><br />
 See also: [**Education**](/about/education/), [**Skills**](/about/skills/).
 {: .notice--success}
 
