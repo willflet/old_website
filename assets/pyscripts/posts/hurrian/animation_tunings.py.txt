@@ -15,28 +15,28 @@ Rotate.CONFIG.update(about_point=ORIGIN)
 class ModeCircle(Scene):
 
     NOTES = [
-        r'\mathsf{C}',
-        r'\mathsf{C}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{D}\flat',
-        r'\mathsf{D}',
-        r'\mathsf{D}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{E}\flat',
-        r'\mathsf{E}',
-        r'\mathsf{F}',
-        r'\mathsf{F}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{G}\flat',
-        r'\mathsf{G}',
-        r'\mathsf{G}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{A}\flat',
-        r'\mathsf{A}',
-        r'\mathsf{A}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{B}\flat',
-        r'\mathsf{B}'
+        R'\mathsf{C}',
+        R'\mathsf{C}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{D}\flat',
+        R'\mathsf{D}',
+        R'\mathsf{D}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{E}\flat',
+        R'\mathsf{E}',
+        R'\mathsf{F}',
+        R'\mathsf{F}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{G}\flat',
+        R'\mathsf{G}',
+        R'\mathsf{G}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{A}\flat',
+        R'\mathsf{A}',
+        R'\mathsf{A}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{B}\flat',
+        R'\mathsf{B}'
     ]
 
     TUNINGS = [
-        r'\textsf{i\v{s}artum}',
-        r'\textsf{qablitum}',
-        r'\textsf{ni\v{s} tu\textipa{\textsubwedge{h}}ri}',
-        r'\textsf{nid qablim}',
-        r'\textsf{pitum}',
-        r'\textsf{emb\=ubum}',
-        r'\textsf{kitmum}',
+        R'\textsf{i\v{s}artum}',
+        R'\textsf{qablitum}',
+        R'\textsf{ni\v{s} tu\textipa{\textsubwedge{h}}ri}',
+        R'\textsf{nid qablim}',
+        R'\textsf{pitum}',
+        R'\textsf{emb\=ubum}',
+        R'\textsf{kitmum}',
     ]
 
     def __init__(self, *args, **kwargs):
@@ -60,7 +60,7 @@ class ModeCircle(Scene):
     def make_tuning_labels(self):
         self.tunings = []
         for name in self.TUNINGS:
-            tuning = TexMobject(r'\scriptstyle{'+name+r'}',
+            tuning = TexMobject(R'\scriptstyle{'+name+R'}',
                 fill_color='#e67e22', background_stroke_color='#e67e22')
             tuning.move_to(3.1*UP + 3*LEFT)
             self.tunings.append(tuning)
@@ -71,7 +71,7 @@ class ModeCircle(Scene):
                              fill_color='#505360', fill_opacity=1.0)
         self.add(self.circle)
         for pitch_class, note in enumerate(self.NOTES):
-            pitch = TexMobject(r'\scriptstyle{'+note+r'}',
+            pitch = TexMobject(R'\scriptstyle{'+note+R'}',
                 fill_color='#b2b4b7', background_stroke_color='#b2b4b7')
             pitch.move_to(3*UP)
             pitch.rotate_about_origin(-pitch_class * TAU / 12)
