@@ -110,7 +110,7 @@ Here is a list of some resources I've had fun with in the past:
 
 <a name="humanizing"></a>
 ## Why is humanizing important to you?
-It's easy to forget that we are human, and among humans.
+Because it's easy to forget that we are human, and among humans.
 
 This is somewhat inevitable: for much of our existence we're encouraged to think of ourselves as 'do-ers' and 'have-ers' rather than '**be**-ers'. After all, 'being' has no purpose, so how can we form an identity on it?
 
@@ -119,7 +119,7 @@ But this amounts to dehumanization.
 ### Humans doing
 A dehumanized person is more predictable and convenient to deal with, so we act (and expect others to act) like we aren't complex, passion-driven creatures. Instead we are our jobs, our status, our brand, our legacy, our possessions, and our habits.
 
-I believe this attitude is catastrophically bad. Not just "what a shame", but physically, existentially threatening.
+I believe this position is catastrophically bad. Not just "what a shame", but physically, existentially threatening.
 
 When we measure a society's success by things like GDP, employment rate, or research output, we fail to capture any fundamental human **needs** (food, shelter, affection, self-fulfilment *etc.*); when we measure a company's success by profit, market share, or patents, these similarly miss the point. And when *people* identify as parts of these systems rather than as loving, living organisms, the result is a world where human activity acts **against human interests**.
 
@@ -128,16 +128,16 @@ Sometimes this is quite transparent, like the CEO who exploits a desperate workf
 - "This industry employs tens of thousands so it needs protection."
 - "Technological progress will lead us into a better future."
 
-Dehumanization of people into do-ers is responsible for the worst ills of society, from climate change to extreme wealth inequality. But it can be combatted on a daily basis by humanizing: **proactively considering human needs**.
+Dehumanization of people into do-ers is responsible for the worst ills of society, from climate change to extreme wealth inequality. But it can be combatted on a daily basis by **humanizing**: proactively considering human needs.
 
 ### Humans being
 Any time we need to treat a human as a do-er, we can make a conscious effort to recognize their whole being as well. This means a baseline of respect and empathy, of course, but also challenging the assumptions that led to the 'do-er' view in the first place.
 
 For example, talking about "cyclists" may involve discussion of their safety, their behaviour, and the infrastructure they use, but it should also provoke questions about **who** they are and **why** they cycle. Do the answers change our perspective? Do they highlight something that might improve the overall human experience?
 
-Alternatively, a "project manager" is a useful commercial role, but who performs it and why? How does it affect other people? Can they be supported in any way to get the best experience for everyone? What happens to these people when things don't go to plan?
+Alternatively, a "project manager" is a useful commercial role, but who performs it – and why? How does it affect other people? Can they be supported in any way to get the best experience for everyone? What happens to these people when things don't go to plan?
 
-Dehumanization isn't all high-profile, large-scale oppression; we can all sometimes be guilty of pretending other people are **NPCs** (non-player characters, in gaming lingo), especially if we've never even seen them. Let's remember *everyone*'s got their own game going on, and do our best not to make it any harder.
+When we reflect on the human stake in human activity, we avoid discarding it. Dehumanization doesn't always look like wilful oppression; from time to time we all pretend that other people are 'NPCs' (non-player characters), especially if we've never even seen them. But remembering each other's humanity at the small scale will contribute to larger-scale attitudes and a world that better serves our needs.
 
 ## Can I use your content?
 
