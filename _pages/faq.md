@@ -130,7 +130,7 @@ Sometimes this is quite transparent, like the CEO who exploits a desperate workf
 
 Dehumanization of people into do-ers is responsible for the worst ills of society, from climate change to extreme wealth inequality. But it can be combatted on a daily basis by **humanizing**: proactively considering human needs.
 
-### Humans being
+### Human beings
 Any time we need to treat a human as a do-er, we can make a conscious effort to recognize their whole being as well. This means a baseline of respect and empathy, of course, but also challenging the assumptions that led to the 'do-er' view in the first place.
 
 For example, talking about "cyclists" may involve discussion of their safety, their behaviour, and the infrastructure they use, but it should also provoke questions about **who** they are and **why** they cycle. Do the answers change our perspective? Do they highlight something that might improve the overall human experience?
