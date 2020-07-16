@@ -25,3 +25,30 @@
 .masthead a.site-logo img {
     border: 2.25px solid #fff;
 }
+
+.masthead .navicon {
+    background-color: #fff;
+}
+.masthead .close .navicon {
+    background-color: transparent;
+}
+.masthead .navicon::before {
+    background-color: #fff;
+}
+.masthead .navicon::after{
+    background-color: #fff;
+}
+
+.greedy-nav__toggle:hover .navicon {
+    background: #fff;
+}
+.greedy-nav__toggle:hover .navicon::before {
+    background: #fff;
+}
+.greedy-nav__toggle:hover .navicon::after {
+    background: #fff;
+}
+
+.masthead .hidden-links .masthead__menu-item a {
+    color: #081214;
+}
