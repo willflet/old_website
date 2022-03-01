@@ -179,7 +179,7 @@ Left-aligned text corresponds to the front of the tablet, and right-aligned the 
 | 𒋾𒋾𒈪𒊬𒋼 𒈫 𒍣𒅕𒋼 𒁹 𒊭𒄴𒊑 𒈫 𒊭𒀸𒊭𒋼 𒈫 𒅕𒁍𒋼 𒈫 |
 | ti-ti-mi-šar-te 2 zi-ir-te 1 ša-[a]ḫ-ri 2 ša-aš-ša-te 2 ir-bu-te 2 |
 | 𒌝𒁍𒁁 𒁹 𒊭𒀸𒊭𒋼 𒈫 𒅕𒁍𒋼 <span style="font-family:LatoWeb;font-weight:300;">X</span> 𒈾𒀜𒆏*𒇷* 𒁹 𒋾**𒋻**𒆏*𒇷* 𒁹 𒋾𒋾𒈪𒊬𒋼 𒐼 |
-| um-bu-bi 1 ša-aš-ša-te 2 ir-bu-te x na-ad-kab-li 1 ti-tar-kab-li 1 ti-ti-mi-šar-te 4 |
+| um-bu-be 1 ša-aš-ša-te 2 ir-bu-te x na-ad-kab-li 1 ti-tar-kab-li 1 ti-ti-mi-šar-te 4 |
 | 𒍣𒅕𒋼 𒁹 𒊭𒄴𒊑 𒈫 𒊭𒀸𒊭𒋼 𒐼 𒅕𒁍𒋼 𒁹 𒈾𒀜𒆏*𒇷* 𒁹 𒊭𒄴𒊑 𒁹 |
 | zi-ir-te 1 ša-aḫ-ri 2 ša-aš-ša-te 4 ir-bu-te 1 na-ad-kab-li 1 ša-aḫ-ri 1 |
 | 𒊭𒀸𒊭𒋼 𒐼 𒊭𒄴𒊑 𒁹 𒊭𒀸𒊭𒋼 𒈫 𒊭𒄴𒊑 𒁹 𒊭𒀸𒊭𒋼 𒈫 𒅕𒁍𒋼 𒈫 |
@@ -215,7 +215,7 @@ From these sources we know that the terms refer to **pairs of strings** on a [ly
 |*šērum*         | ša-aḫ-ri        | 𒊭𒄴𒊑           |    7–5   |
 |*išartum*       | (i-šar-te)      | (𒄿𒊬𒋼)         |    2–6   |
 |*šalšatum*      | ša-aš-ša-te     | 𒊭𒀸𒊭𒋼         |    1–6   |
-|*embūbum*       | um-bu-bi        | 𒌝𒁍𒁁          |    3–7   |
+|*embūbum*       | um-bu-be        | 𒌝𒁍𒁁          |    3–7   |
 |*rebûtum*       | ir-bu-te        | 𒅕𒁍𒋼           |    2–7   |
 |*nīd qablim*    | na-ad-kab-li    | 𒈾𒀜𒆏*𒇷*     |    4–1   |
 |*isqum*         | (eš-gi)         | (𒌍𒄀)           |    1–3   |
