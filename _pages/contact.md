@@ -32,5 +32,10 @@ onload="if(submitted) {window.location='/contact/thanks/';}"></iframe>
 <textarea rows="8" name="entry.839337160" class="form-control" required></textarea>
 </div>
 
+<div class="form-group">
+<label required>How many planets do humans live on?</label>
+<input type="text" name="entry.58717136" class="form-control" placeholder="answer" required>
+</div>
+
 <button type="submit" class="btn btn-primary">Send</button>
 </form>
