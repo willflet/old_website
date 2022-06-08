@@ -34,7 +34,7 @@ onload="if(submitted) {window.location='/contact/thanks/';}"></iframe>
 
 <div class="form-group">
 <label required>How many planets do humans live on?</label>
-<input type="text" name="entry.58717136" class="form-control" placeholder="answer" required>
+<input type="text" name="entry.58717136" class="form-control" required>
 </div>
 
 <button type="submit" class="btn btn-primary">Send</button>
